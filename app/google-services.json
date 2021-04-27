@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391687800163",
+    "project_id": "searchshops-8ae18",
+    "storage_bucket": "searchshops-8ae18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391687800163:android:47ef39811793d9795bff56",
+        "android_client_info": {
+          "package_name": "com.example.searchshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391687800163-qhdn6s8fk26khik8a6sfnoafaj2350d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ELtltQCFN5fMJKpVCc7Au9_ej9KG6fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391687800163-qhdn6s8fk26khik8a6sfnoafaj2350d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
