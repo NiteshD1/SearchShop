@@ -5,7 +5,7 @@ It is an android project which give you details about shops which have different
 
 ##  Demo
 
-# Demo youtube video link of Application - https://youtu.be/oxpuc1yUUys
-# video demo link of backend database(Firebase Firestore) - https://youtu.be/w7urUA3c8NY
-# Android Apk link - 
+### Demo youtube video link of Application - https://youtu.be/oxpuc1yUUys
+### video demo link of backend database(Firebase Firestore) - https://youtu.be/w7urUA3c8NY
+### Android Apk link - 
 
